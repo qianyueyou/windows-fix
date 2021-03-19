@@ -16,3 +16,7 @@ The following Chrome extensions are recommended:
 - anti adblock killer
 - empty new tab page
 - do not automatically add other search engines
+
+## TODO: Window Managers
+Try the following:
+https://github.com/jpginc/windows10DesktopManager
