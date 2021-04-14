@@ -24,3 +24,6 @@ https://github.com/jpginc/windows10DesktopManager
 ## TODO: Group Policy and Intune
 I don't understand Group Policy.  The following might be useful.  Note that nowadays they can also use Intune.
 http://learnthat.com/prevent-group-policy-from-applying-to-your-computer/
+
+## TODO: IP Settings
+https://www.pdq.com/blog/using-powershell-to-set-static-and-dhcp-ip-addresses-part-1/
