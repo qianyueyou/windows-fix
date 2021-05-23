@@ -1,6 +1,9 @@
 # windows-fix
 Various fixes to make working with Windows smoother.
 
+## Why I don't trust Microsoft
+https://www.howtogeek.com/342871/hey-microsoft-stop-installing-apps-on-my-pc-without-asking/
+
 ## TODO: Git Bash
 Git for Windows sets `PS1` to check info related to a git repo.  This makes the
 command line extremely slow.  A sensible solution is to set these values in
